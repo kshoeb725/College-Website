@@ -6,7 +6,7 @@ This is a simple and responsive **College Website** built using only **HTML** an
 ---
 
 ## 🌐 Live Demo  
-[Click here to view the live demo](#) 
+[Click here to view the live demo](https://kshoeb725.github.io/College-Website/) 
 
 ---
 
